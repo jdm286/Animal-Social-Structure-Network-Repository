@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="4302" />
+    <node id="3321" />
+    <node id="3410" />
+    <node id="3045" />
+    <node id="20" />
+    <node id="47" />
+    <node id="28" />
+    <node id="2564" />
+    <node id="3180" />
+    <node id="6" />
+    <node id="4313" />
+    <node id="4314" />
+    <node id="2625" />
+    <node id="4116" />
+    <node id="3150" />
+    <node id="3406" />
+    <node id="3409" />
+    <node id="3338" />
+    <node id="39" />
+    <node id="15" />
+    <node id="16" />
+    <node id="33" />
+    <node id="30" />
+    <node id="36" />
+    <node id="4396" />
+    <edge source="4302" target="33">
+      <data key="d0">96080</data>
+    </edge>
+    <edge source="4302" target="3321">
+      <data key="d0">43</data>
+    </edge>
+    <edge source="4302" target="3338">
+      <data key="d0">2758</data>
+    </edge>
+    <edge source="4302" target="4314">
+      <data key="d0">7638</data>
+    </edge>
+    <edge source="3321" target="33">
+      <data key="d0">67239</data>
+    </edge>
+    <edge source="3321" target="2564">
+      <data key="d0">1839</data>
+    </edge>
+    <edge source="3321" target="36">
+      <data key="d0">660</data>
+    </edge>
+    <edge source="3410" target="3409">
+      <data key="d0">6621</data>
+    </edge>
+    <edge source="3045" target="4314">
+      <data key="d0">2873</data>
+    </edge>
+    <edge source="20" target="39">
+      <data key="d0">5906</data>
+    </edge>
+    <edge source="47" target="4396">
+      <data key="d0">663802</data>
+    </edge>
+    <edge source="28" target="6">
+      <data key="d0">223</data>
+    </edge>
+    <edge source="2564" target="36">
+      <data key="d0">2890</data>
+    </edge>
+    <edge source="3180" target="4116">
+      <data key="d0">34280</data>
+    </edge>
+    <edge source="3180" target="3338">
+      <data key="d0">1473</data>
+    </edge>
+    <edge source="6" target="30">
+      <data key="d0">583</data>
+    </edge>
+    <edge source="6" target="15">
+      <data key="d0">1973</data>
+    </edge>
+    <edge source="6" target="3150">
+      <data key="d0">278</data>
+    </edge>
+    <edge source="6" target="16">
+      <data key="d0">99843</data>
+    </edge>
+    <edge source="4313" target="33">
+      <data key="d0">2352</data>
+    </edge>
+    <edge source="4314" target="33">
+      <data key="d0">449</data>
+    </edge>
+    <edge source="4314" target="3338">
+      <data key="d0">6007</data>
+    </edge>
+    <edge source="2625" target="3406">
+      <data key="d0">48424</data>
+    </edge>
+    <edge source="3150" target="30">
+      <data key="d0">64</data>
+    </edge>
+    <edge source="3150" target="15">
+      <data key="d0">2186</data>
+    </edge>
+    <edge source="3150" target="16">
+      <data key="d0">3295</data>
+    </edge>
+    <edge source="15" target="30">
+      <data key="d0">24613</data>
+    </edge>
+    <edge source="15" target="16">
+      <data key="d0">5943</data>
+    </edge>
+    <edge source="16" target="30">
+      <data key="d0">33970</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="4080" />
+    <node id="4174" />
+    <node id="4216" />
+    <node id="4148" />
+    <node id="3496" />
+    <node id="3620" />
+    <node id="3633" />
+    <node id="4015" />
+    <node id="4719" />
+    <node id="4534" />
+    <node id="4672" />
+    <node id="3336" />
+    <node id="4346" />
+    <node id="4202" />
+    <node id="2014" />
+    <node id="4168" />
+    <node id="2028" />
+    <node id="4377" />
+    <edge source="4080" target="3336">
+      <data key="d0">77</data>
+    </edge>
+    <edge source="4080" target="4015">
+      <data key="d0">3246</data>
+    </edge>
+    <edge source="4174" target="4346">
+      <data key="d0">1045</data>
+    </edge>
+    <edge source="4174" target="4148">
+      <data key="d0">165405</data>
+    </edge>
+    <edge source="4216" target="3496">
+      <data key="d0">143</data>
+    </edge>
+    <edge source="4148" target="4346">
+      <data key="d0">2187</data>
+    </edge>
+    <edge source="4148" target="3633">
+      <data key="d0">373</data>
+    </edge>
+    <edge source="4148" target="4672">
+      <data key="d0">20038</data>
+    </edge>
+    <edge source="3620" target="4534">
+      <data key="d0">1206</data>
+    </edge>
+    <edge source="3620" target="4719">
+      <data key="d0">17102</data>
+    </edge>
+    <edge source="3620" target="3633">
+      <data key="d0">1935</data>
+    </edge>
+    <edge source="3620" target="2014">
+      <data key="d0">761</data>
+    </edge>
+    <edge source="3620" target="4168">
+      <data key="d0">7964</data>
+    </edge>
+    <edge source="3620" target="4377">
+      <data key="d0">10355</data>
+    </edge>
+    <edge source="3633" target="4719">
+      <data key="d0">19682</data>
+    </edge>
+    <edge source="3633" target="4168">
+      <data key="d0">47395</data>
+    </edge>
+    <edge source="3633" target="2014">
+      <data key="d0">4276</data>
+    </edge>
+    <edge source="3633" target="4377">
+      <data key="d0">8341</data>
+    </edge>
+    <edge source="4015" target="2028">
+      <data key="d0">7465</data>
+    </edge>
+    <edge source="4719" target="2014">
+      <data key="d0">7026</data>
+    </edge>
+    <edge source="4719" target="4168">
+      <data key="d0">53844</data>
+    </edge>
+    <edge source="4719" target="4377">
+      <data key="d0">5514</data>
+    </edge>
+    <edge source="4534" target="4377">
+      <data key="d0">12571</data>
+    </edge>
+    <edge source="3336" target="4202">
+      <data key="d0">1436</data>
+    </edge>
+    <edge source="3336" target="2028">
+      <data key="d0">8944</data>
+    </edge>
+    <edge source="4168" target="4377">
+      <data key="d0">2704</data>
+    </edge>
+  </graph>
+</graphml>

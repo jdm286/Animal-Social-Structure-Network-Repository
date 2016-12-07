@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="5010" />
+    <node id="5011" />
+    <node id="5150" />
+    <node id="5152" />
+    <node id="5078" />
+    <node id="5473" />
+    <node id="5210" />
+    <node id="5073" />
+    <node id="5586" />
+    <node id="5101" />
+    <node id="5313" />
+    <node id="5566" />
+    <node id="5094" />
+    <node id="5149" />
+    <node id="5023" />
+    <node id="5024" />
+    <node id="5141" />
+    <node id="5209" />
+    <node id="5103" />
+    <node id="5100" />
+    <node id="5044" />
+    <node id="5346" />
+    <node id="5579" />
+    <node id="3092" />
+    <edge source="5010" target="5011">
+      <data key="d0">38388</data>
+    </edge>
+    <edge source="5010" target="5566">
+      <data key="d0">83773</data>
+    </edge>
+    <edge source="5010" target="5103">
+      <data key="d0">816</data>
+    </edge>
+    <edge source="5011" target="5103">
+      <data key="d0">151125</data>
+    </edge>
+    <edge source="5011" target="5100">
+      <data key="d0">464</data>
+    </edge>
+    <edge source="5011" target="5566">
+      <data key="d0">3795</data>
+    </edge>
+    <edge source="5150" target="3092">
+      <data key="d0">49286</data>
+    </edge>
+    <edge source="5152" target="3092">
+      <data key="d0">183</data>
+    </edge>
+    <edge source="5152" target="5073">
+      <data key="d0">828</data>
+    </edge>
+    <edge source="5152" target="5149">
+      <data key="d0">10034</data>
+    </edge>
+    <edge source="5152" target="5313">
+      <data key="d0">42842</data>
+    </edge>
+    <edge source="5152" target="5141">
+      <data key="d0">912</data>
+    </edge>
+    <edge source="5078" target="5586">
+      <data key="d0">1544</data>
+    </edge>
+    <edge source="5078" target="5023">
+      <data key="d0">597</data>
+    </edge>
+    <edge source="5078" target="5044">
+      <data key="d0">18467</data>
+    </edge>
+    <edge source="5078" target="5094">
+      <data key="d0">1399</data>
+    </edge>
+    <edge source="5473" target="5586">
+      <data key="d0">408</data>
+    </edge>
+    <edge source="5473" target="5044">
+      <data key="d0">14717</data>
+    </edge>
+    <edge source="5473" target="5094">
+      <data key="d0">12851</data>
+    </edge>
+    <edge source="5210" target="5209">
+      <data key="d0">3347</data>
+    </edge>
+    <edge source="5210" target="5073">
+      <data key="d0">733</data>
+    </edge>
+    <edge source="5210" target="5149">
+      <data key="d0">2451</data>
+    </edge>
+    <edge source="5073" target="5209">
+      <data key="d0">992064</data>
+    </edge>
+    <edge source="5073" target="5149">
+      <data key="d0">3782</data>
+    </edge>
+    <edge source="5586" target="5044">
+      <data key="d0">18274</data>
+    </edge>
+    <edge source="5586" target="5094">
+      <data key="d0">3328</data>
+    </edge>
+    <edge source="5101" target="5209">
+      <data key="d0">10785</data>
+    </edge>
+    <edge source="5101" target="5313">
+      <data key="d0">889</data>
+    </edge>
+    <edge source="5313" target="5149">
+      <data key="d0">26366</data>
+    </edge>
+    <edge source="5566" target="5100">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="5566" target="5103">
+      <data key="d0">37366</data>
+    </edge>
+    <edge source="5094" target="5023">
+      <data key="d0">4443</data>
+    </edge>
+    <edge source="5094" target="5044">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="5149" target="5141">
+      <data key="d0">12862</data>
+    </edge>
+    <edge source="5149" target="5209">
+      <data key="d0">302</data>
+    </edge>
+    <edge source="5023" target="5044">
+      <data key="d0">20106</data>
+    </edge>
+    <edge source="5024" target="5346">
+      <data key="d0">8801</data>
+    </edge>
+    <edge source="5141" target="3092">
+      <data key="d0">3479</data>
+    </edge>
+    <edge source="5103" target="5100">
+      <data key="d0">4619</data>
+    </edge>
+    <edge source="5100" target="5579">
+      <data key="d0">8679</data>
+    </edge>
+  </graph>
+</graphml>
